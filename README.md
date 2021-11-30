@@ -1,3 +1,3 @@
 # seng2011
-UNSW Reqts & Design Workshop Course 
+UNSW Program Reasoning Workshop  Course 
 >final grade 75
